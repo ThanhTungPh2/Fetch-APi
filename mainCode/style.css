@@ -1,0 +1,19 @@
+button {
+    background-color: #f05123;
+    padding: 9px 16px;
+    border-radius: 999px;
+    border: none;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+body {
+    width: 620px;
+    margin: auto;
+}
+.form {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
